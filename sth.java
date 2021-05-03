@@ -1,2 +1,2 @@
 whatever
-test
+life is hard
