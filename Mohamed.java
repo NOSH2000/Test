@@ -3,7 +3,7 @@ package QueensCollege;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code henmnre
+	// 313 sucks
     }
 }
 class Solution {
